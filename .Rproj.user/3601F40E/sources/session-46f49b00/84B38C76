@@ -1,9 +1,9 @@
 {
     "id": "84B38C76",
-    "path": "C:/Users/Alumno/Desktop/trabajoo.qmd",
+    "path": "C:/Users/Alumno/Desktop/trabajoquarto.qmd",
     "project_path": null,
     "type": "quarto_markdown",
-    "hash": "3906356681",
+    "hash": "2659161849",
     "contents": "",
     "dirty": false,
     "created": 1710276304785.0,
@@ -15,18 +15,18 @@
         "tempName": "Untitled2",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,0",
+        "cursorPosition": "20,0",
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "388:191"
+        "rmdVisualModeLocation": "560:291"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710278531,
+    "lastKnownWriteTime": 1710279014,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710278531412,
+    "last_content_update": 1710279014579,
     "read_only": false,
     "read_only_alternatives": []
 }
